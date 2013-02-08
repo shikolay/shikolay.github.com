@@ -1,0 +1,20 @@
+.spaceBack {
+    background-image: url('./images/background.png');
+    width: 960px;
+    height: 540px;
+
+}
+
+.smallStars {
+    background-image: url('./images/smallstars.png');
+    width: 960px;
+    height: 540px;
+
+}
+
+.bigStars {
+    background-image: url('./images/bigstars.png');
+    width: 960px;
+    height: 540px;
+
+}
